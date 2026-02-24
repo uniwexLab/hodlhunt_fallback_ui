@@ -1,6 +1,8 @@
-# CryptoFish — client (single-page)
+# HodlHunt — client (single-page)
 
-Single HTML client for CryptoFish. No build step required for deployment.
+Single HTML client for HodlHunt. No build step required for deployment.
+
+**Open the app:** [GitHub Pages](https://uniwexlab.github.io/hodlhunt_fallback_ui/index.standalone.html) · [Source](https://github.com/uniwexLab/hodlhunt_fallback_ui/index.standalone.html)
 
 ## Security: no backdoors
 
@@ -14,7 +16,7 @@ There are no external scripts, no analytics, no hidden trackers. Your private ke
 
 ## How to use
 
-1. Open **index.standalone.html** in a browser (local file or after uploading to a static host).
+1. Open **index.standalone.html** in a browser (local file or [on GitHub Pages](https://uniwexlab.github.io/hodlhunt_fallback_ui/)).
 2. Paste your wallet **private key** (base58 or JSON array) and click **Log in**.
 3. Select **RPC** in the header (default: PublicNode).
 4. **My fish** — list of your fish; click **Go to fish** to open a card.
